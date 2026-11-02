@@ -82,8 +82,7 @@ TECH/
 ├── manage.py         # Utilitário de linha de comando do Django
 ├── requirements.txt  # Lista de dependências do projeto
 └── README.md         # Documentação do projeto
-📝 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
 
 
 ---
