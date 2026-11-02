@@ -1,0 +1,20 @@
+# Variáveis de ambiente e credenciais sensíveis
+.env
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Banco de dados local com sessões e utilizadores
+*.sqlite3
+db.sqlite3
+
+# Ficheiros temporários e compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ficheiros de configuração de editores
+.vscode/
+.idea/
